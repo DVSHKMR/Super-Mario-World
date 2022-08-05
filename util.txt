@@ -1,0 +1,7 @@
+Bright Green: rgb(64, 211, 31)
+Dark Green: rgb(64, 138, 30)
+Water: rgb(0, 89, 253)
+Road: rgb(254, 234, 179)
+
+Map id: 8ec64a89e3d2f2b5
+Api key: AIzaSyBiXgJJNH3QtHu_Rk00JF0uWae7dvRKmk4
